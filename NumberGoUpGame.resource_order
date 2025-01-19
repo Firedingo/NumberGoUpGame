@@ -17,9 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_arrow","order":4,"path":"objects/obj_arrow/obj_arrow.yy",},
     {"name":"obj_buy","order":1,"path":"objects/obj_buy/obj_buy.yy",},
     {"name":"obj_controller","order":3,"path":"objects/obj_controller/obj_controller.yy",},
+    {"name":"obj_leftArrow","order":5,"path":"objects/obj_leftArrow/obj_leftArrow.yy",},
+    {"name":"obj_rightArrow","order":6,"path":"objects/obj_rightArrow/obj_rightArrow.yy",},
     {"name":"obj_sell","order":2,"path":"objects/obj_sell/obj_sell.yy",},
+    {"name":"spt_arrow","order":2,"path":"sprites/spt_arrow/spt_arrow.yy",},
     {"name":"spt_interact","order":1,"path":"sprites/spt_interact/spt_interact.yy",},
   ],
 }

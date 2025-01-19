@@ -28,4 +28,17 @@ if (place_meeting(x-sprite_width/2,y,obj_sell)) {
 	}
 }
 
+//Add touch controls
+if (place_meeting(mouse_x,mouse_y,obj_leftArrow)) {
+	if (mouse_check_button(mb_left)) {
+		x=x-3;
+	}
+}
+x=x+0;
 
+if (place_meeting(mouse_x,mouse_y,obj_rightArrow)) {
+	if (mouse_check_button(mb_left)) {
+		x=x+3;	
+	}
+}
+x=x+0;
