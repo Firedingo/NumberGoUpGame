@@ -4,4 +4,4 @@ playerValue = playerID.value;
 
 windowWidth = window_get_width();
 windowHeight = window_get_height();
-gameVersion = 0.1;
+gameVersion = GM_version;
